@@ -1,4 +1,4 @@
-# Knowledge-Based AI Agent (RAG System)
+# Social-to-Lead-Agentic-Workflow (RAG System)
 
 This project implements a **knowledge-grounded AI agent** that answers user questions using a **local knowledge base** via **Retrieval-Augmented Generation (RAG)**.
 
