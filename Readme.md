@@ -147,7 +147,7 @@ pip install -r requirements.txt
 ### 2. Start the agent (with hot reload)
 
 ```bash
-python main.py
+watchfiles "python main.py"
 ```
 
 ---
@@ -191,7 +191,5 @@ This project demonstrates a **production-ready AI agent** using best practices i
 * Clean state management
 
 Designed to be **simple, reliable, and extensible**.
-
-```
 
 

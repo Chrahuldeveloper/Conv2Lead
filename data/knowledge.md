@@ -11,7 +11,6 @@
 - Resolution: 4K
 - Features:
   - AI captions
-
 ---
 
 ## Company Policies
